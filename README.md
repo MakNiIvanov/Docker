@@ -9,4 +9,4 @@ adminer\
 my_postgres\
 192.168.1.11:5432\
 Login: admin\
-Password: admin\
+Password: admin

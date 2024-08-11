@@ -3,10 +3,10 @@
 sh ./Script.sh
 
 # Info
-adminer
+adminer /n
 192.168.1.10:8080
 
-my_postgres
-192.168.1.11:5432
-Login: admin
+my_postgres /n
+192.168.1.11:5432 /n
+Login: admin /n
 Password: admin
